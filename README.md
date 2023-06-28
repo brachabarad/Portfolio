@@ -20,7 +20,7 @@ The final project utilized all of these to clean and analyze data set of users o
 I performed a union on the two data sets, created new columns, cleaned the data, and prepared it for analysis. Then I created Tableau visualizations and offered analytics and recommendations based on them.
 
 
-3)	Tableau Project – KPI Analysis (Tableau workbook with CSV datasets, JPG screenshots)
+3)	Tableau Project – KPI Analysis (Tableau workbook with  2 CSV datasets, JPG screenshots)
 
 This is my final project for “Intro to Data Analytics” (Part 1) at the Global Tech Experience.
 In this course I learned how to use Tableau to prepare, clean. visualize and analyze data.
